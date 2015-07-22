@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the Translation Settings feature.
  */
+
+include_once 'translation_settings.features.inc';
