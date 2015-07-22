@@ -2,13 +2,9 @@ name = Translation Settings
 description = Functionallity for Site Translations
 core = 7.x
 package = Features
-dependencies[] = features
-dependencies[] = image
 dependencies[] = locale
-dependencies[] = menu
-dependencies[] = taxonomy
-dependencies[] = text
 features[features_api][] = api:2
+<<<<<<< Updated upstream
 features[field_base][] = description_field
 features[field_base][] = field_tags
 features[field_base][] = name_field
@@ -28,3 +24,8 @@ features[node][] = webform
 features[taxonomy][] = tags
 features_exclude[field_base][body] = body
 features_exclude[field_base][field_image] = field_image
+=======
+features[language][] = en
+features[language][] = fr
+features_exclude[dependencies][features] = features
+>>>>>>> Stashed changes

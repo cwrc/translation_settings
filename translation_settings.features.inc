@@ -1,9 +1,6 @@
 <?php
-/**
- * @file
- * translation_settings.features.inc
- */
 
+<<<<<<< Updated upstream
 /**
  * Implements hook_node_info().
  */
@@ -29,3 +26,6 @@ function translation_settings_node_info() {
   drupal_alter('node_info', $items);
   return $items;
 }
+=======
+// This file is deprecated and can be removed.
+>>>>>>> Stashed changes
