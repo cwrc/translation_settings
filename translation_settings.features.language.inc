@@ -13,8 +13,8 @@ function translation_settings_locale_default_languages() {
   // Exported language: en.
   $languages['en'] = array(
     'language' => 'en',
-    'name' => 'English',
-    'native' => 'English',
+    'name' => 'EN',
+    'native' => 'EN',
     'direction' => 0,
     'enabled' => 1,
     'plurals' => 0,
@@ -26,8 +26,8 @@ function translation_settings_locale_default_languages() {
   // Exported language: fr.
   $languages['fr'] = array(
     'language' => 'fr',
-    'name' => 'French',
-    'native' => 'Français',
+    'name' => 'FR',
+    'native' => 'FR',
     'direction' => 0,
     'enabled' => 1,
     'plurals' => 0,
