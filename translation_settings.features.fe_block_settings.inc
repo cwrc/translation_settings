@@ -26,7 +26,7 @@ function translation_settings_default_fe_block_settings() {
         'region' => 'masthead',
         'status' => 1,
         'theme' => 'de_theme',
-        'weight' => 3,
+        'weight' => 5,
       ),
     ),
     'title' => '<none>',
