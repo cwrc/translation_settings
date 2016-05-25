@@ -1,7 +1,7 @@
-name = CWRC Translation Settings
+name = CWRC: Translation Settings
 description = Functionality for site translations.
 core = 7.x
-package = CWRC Custom
+package = CWRC
 version = 7.x-1.0
 dependencies[] = ctools
 dependencies[] = entity_translation
